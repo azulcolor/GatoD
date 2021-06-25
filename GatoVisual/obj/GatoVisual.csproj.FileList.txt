@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Gato.Form1.resources
+obj\Debug\Gato.Properties.Resources.resources
+bin\Debug\GatoVisual.exe
+bin\Debug\GatoVisual.pdb
+obj\Debug\GatoVisual.csproj.GenerateResource.Cache
+obj\Debug\GatoVisual.exe
+obj\Debug\GatoVisual.pdb
